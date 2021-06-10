@@ -18,16 +18,21 @@ __Closed-domain question answering__ deals with questions under a specific domai
 
 __Open-domain question answering__ deals with questions about nearly anything, and can only rely on general ontologies and world knowledge. On the other hand, these systems usually have much more data available from which to extract the answer.
 
-__Factoid vs Non Factoid__
-- Factoid
+## Factoid vs Non Factoid__
+
+__Factoid__
+
 These are questions that “can be answered with simple facts expressed in short text answers”; usually, their answers include “short strings expressing a personal name, temporal expression, or location” (Jurafsky and Martin, 2017). 
 
-An example of a factoid question and its answer is:
-***
+An example of a factoid question and its answer is
+
 Q: Who is Canada’s prime minister?
 A: Justin Trudeau.
 
-- Non Factoid
+***
+
+__Non Factoid__
+
 Non-factoid questions ask for “opinions, suggestions, interpretations. Answering and evaluating the quality of the provided answers for non-factoid questions have proved to be non-trivial due to the difficulty of the task complexity as well as the lack of training data. To address the latter issue, numerous researchers have tried to take advantage of
 user-generated content on Community Question Answering (CQA) web sites such as 
 - Yahoo! Answers
