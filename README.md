@@ -6,11 +6,11 @@ A question answering implementation, usually a computer program, may construct i
 
 Some examples of natural language document collections used for question answering systems include:
 
--a local collection of reference texts
--internal organization documents and web pages
--compiled newswire reports
--a set of Wikipedia pages
--a subset of World Wide Web pages
+- a local collection of reference texts
+- internal organization documents and web pages
+- compiled newswire reports
+- a set of Wikipedia pages
+- a subset of World Wide Web pages
 
 Question answering research attempts to deal with a wide range of question types including: fact, list, definition, How, Why, hypothetical, semantically constrained, and cross-lingual questions.
 
