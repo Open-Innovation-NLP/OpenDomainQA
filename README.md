@@ -1,5 +1,6 @@
 # OpenDomainQA
-Study on Open Domain Question Answering
+
+## Study on Open Domain Question Answering
 
 A question answering implementation, usually a computer program, may construct its answers by querying a structured database of knowledge or information, usually a knowledge base. More commonly, question answering systems can pull answers from an unstructured collection of natural language documents.
 
