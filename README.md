@@ -18,7 +18,7 @@ __Closed-domain question answering__ deals with questions under a specific domai
 
 __Open-domain question answering__ deals with questions about nearly anything, and can only rely on general ontologies and world knowledge. On the other hand, these systems usually have much more data available from which to extract the answer.
 
-## Factoid vs Non Factoid__
+## Factoid vs Non Factoid
 
 __Factoid__
 
